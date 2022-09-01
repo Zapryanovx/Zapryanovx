@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Zapryanovx/Zapryanovx//blob/master/banner/github_readme_banner.png)
+![Banner Image](https://github.com/Zapryanovx/Zapryanovx/blob/master/banner/github_readme_banner.png)
 
 ## Hi there 👋
 
@@ -19,4 +19,4 @@ I am **Ilian Zapryanov** graduated as **Python Junior Full-Stack Developer**. I 
 
 ![Ilian Zapryanov's github stats](https://github-readme-stats.vercel.app/api?username=zapryanovx&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zapryanovx)
+![trophy](https://github-profile-trophy.vercel.app/?username=zapryanovx)
