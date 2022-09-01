@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/Zapryanovx/Zapryanovx//blob/master/github_readme_banner.png)
+![Banner Image](https://github.com/Zapryanovx/Zapryanovx//blob/master/banner/github_readme_banner.png)
 
 ## Hi there 👋
 
