@@ -1,4 +1,5 @@
-![Banner Image](https://github.com/Zapryanovx/Zapryanovx/blob/master/banner/github_readme_banner.png?raw=true)
+<img src="https://github.com/Zapryanovx/Zapryanovx/blob/main/banner/github_readme_banner.png" alt="banner"/>
+
 
 ## Hi there 👋
 
