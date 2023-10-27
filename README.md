@@ -10,9 +10,9 @@ I am **Ilian Zapryanov** graduated as **Python Junior Full-Stack Developer**. I 
 ---
 
 - 🌱 I’m currently learning **Python - Algorithms**
-- 👨‍🎓 I’m currently a student of High school of Mathematics "Akademik Kiril Popov", Plovdiv, Bulgaria [**2015-present**]
+- 👨‍🎓  I have graduated from High school of Mathematics "Akademik Kiril Popov", Plovdiv, Bulgaria [**2015-2023**]
 - 🎓 I have graduated from Software University (Softuni) - Python Junior Full-Stack Developer [**2019-2021**]
-- 🏫 I will hopefully study at the University of Sofia "St. Kliment Ohridski" [**not yet**]
+- 🏫 Currently a student of the University of Sofia "St. Kliment Ohridski" [**2023-present**]
 - 💬 How to reach me:
   **[Instagram](https://www.instagram.com/zapryanov.ilian/)**
 
