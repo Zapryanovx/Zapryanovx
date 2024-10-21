@@ -1,7 +1,8 @@
 <img src="https://github.com/Zapryanovx/Zapryanovx/blob/main/banner/github_readme_banner.png" alt="banner"/>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Zapryanovx&style=flat-square) ## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=Zapryanovx&style=flat-square) 
+## Hi there 👋
 
 I am **Ilian Zapryanov** graduated as **Python Junior Full-Stack Developer**. I am a programming enthusiast learning about the language of the future world. Currently in love with Python, but not ignoring the other technologies and languages. Not the lone wolf type of developer, I enjoy working in a team because of the new things I am learning about and the new knowledge I am gaining. 
 
