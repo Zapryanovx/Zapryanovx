@@ -1,4 +1,4 @@
-<img src="https://github.com/Zapryanovx/Zapryanovx/blob/main/banner/github-header-banner-2026.png" alt="banner"/>
+<img src="https://github.com/Zapryanovx/Zapryanovx/blob/main/banner/github-header-banner-2026-v2.png" alt="banner"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zapryanovx&style=flat-square)
 
