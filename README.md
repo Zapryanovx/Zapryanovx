@@ -10,7 +10,7 @@ I am **Ilian Zapryanov**, a Full-Stack Developer with a background in C++ and a 
 
 ---
 
-- 🌱 I'm currently learning **Java · SOLID Principles & Design Patterns**
+- 🌱 I'm currently revising **Java · Data Structures & Algorithms**
 - 🏫 Currently a student at **Sofia University "St. Kliment Ohridski** — Software Engineering [**2023–present**]
 - 👨‍🎓 Graduated from **High School of Mathematics "Akademik Kiril Popov"**, Plovdiv [**2015–2023**]
 - 🎓 Graduated from **Software University (SoftUni)** — Python Junior Full-Stack Developer [**2019–2021**]
