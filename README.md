@@ -1,4 +1,4 @@
-<img src="https://github.com/Zapryanovx/Zapryanovx/blob/main/banner/github-header-banner-2026-v4.png" alt="banner"/>
+<img src="https://raw.githubusercontent.com/Zapryanovx/Zapryanovx/main/banner/github-header-banner-2026-v4.png" alt="banner"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zapryanovx&style=flat-square)
 
@@ -52,13 +52,7 @@ I am **Ilian Zapryanov**, a Full-Stack Developer with a background in C++ and a 
 ![DBGate](https://img.shields.io/badge/DBGate-1976D2?style=flat&logoColor=white)
 ![MySQL CLI](https://img.shields.io/badge/MySQL_CLI-00758F?style=flat&logo=mysql&logoColor=white)
 
--------
+---
 
 ![Most Used Langs](https://githubstats.me/api/top-langs/?username=Zapryanovx&layout=compact&theme=dark&hide_border=true)
 ![Ilian Zapryanov's GitHub stats](https://githubstats.me/api?username=Zapryanovx&show_icons=true&hide_border=true&theme=dark)
-
-
-
----
-
-![
